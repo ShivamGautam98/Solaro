@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Solar Calculator</string>
+
+    <string name="title_activity_cost">costActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hardware_quantity_cost"><![CDATA[Hardware Quantity & Cost]]></string>
+    <string name="solar_panel">Solar Panel</string>
+    <string name="p">p</string>
+</resources>
